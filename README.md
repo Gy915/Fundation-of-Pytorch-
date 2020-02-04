@@ -5,3 +5,4 @@
 ### 3. Computational Graph
 ### 4. DataLoader
 ### 5. Module Regression
+### 6. Module Classification
